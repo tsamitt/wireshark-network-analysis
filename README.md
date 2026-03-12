@@ -29,7 +29,7 @@ Traffic filtering and investigation
 
 ## Repository Contents
 
-lab-summary.md – Overview of the lab exercise  
-packet-analysis.md – Explanation of packet observations  
-wireshark-filters.md – Useful packet filters  
-references.md – Lab resources
+lab-summary.md - Overview of the lab exercise  
+packet-analysis.md - Explanation of packet observations  
+wireshark-filters.md - Useful packet filters  
+references.md - Lab resources
